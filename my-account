@@ -236,7 +236,7 @@ flexibility(document.documentElement);
 				<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 					<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Se souvenir de moi</span>
 				</label>
-				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="46264838cc" /><input type="hidden" name="_wp_http_referer" value="/my-account" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Identification">Identification</button>
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="80486f4a36" /><input type="hidden" name="_wp_http_referer" value="/my-account" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Identification">Identification</button>
 			</p>
 			<p class="woocommerce-LostPassword lost_password">
 				<a href="https://dev-test.oumouexpress.com/my-account/lost-password">Mot de passe perdu ?</a>

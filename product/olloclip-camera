@@ -246,10 +246,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/olloclip-camera" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f7d53ccf">quantité de Olloclip Camera</label>
+				<label class="screen-reader-text" for="quantity_5fd783c993378">quantité de Olloclip Camera</label>
 		<input
 			type="number"
-			id="quantity_5fd74f7d53ccf"
+			id="quantity_5fd783c993378"
 			class="input-text qty text"
 			step="1"
 			min="1"

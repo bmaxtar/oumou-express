@@ -241,10 +241,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/tangram-factory-smart-rope" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f83b5e92">quantité de Tangram Factory Smart Rope</label>
+				<label class="screen-reader-text" for="quantity_5fd783d05a2e6">quantité de Tangram Factory Smart Rope</label>
 		<input
 			type="number"
-			id="quantity_5fd74f83b5e92"
+			id="quantity_5fd783d05a2e6"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -375,36 +375,36 @@ to use</h3>
 		<ul class="products columns-4">
 
 			
-					<li class="ast-article-single product type-product post-7678 status-publish first instock product_cat-accessories product_cat-tablets product_tag-galaxy product_tag-samsung product_tag-samsung-galaxy-tab-4 has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+					<li class="ast-article-single product type-product post-858 status-publish first instock product_cat-accessories product_cat-computer has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/laudantium-enim-fringilla-dignissim" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2018/11/housse-ipad-2-nouvel-ipad-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2018/11/housse-ipad-2-nouvel-ipad-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/11/housse-ipad-2-nouvel-ipad-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/11/housse-ipad-2-nouvel-ipad.jpg 340w" sizes="(max-width: 300px) 100vw, 300px" /><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/product03-300x300.jpg" class="show-on-hover" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/product03-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/product03-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/product03.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/laudantium-enim-fringilla-dignissim" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Laudantium enim fringilla dignissim</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>1,500</bdi></span></span>
+<div class="star-rating" role="img" aria-label="Note 3.00 sur 5"><span style="width:60%">Note <strong class="rating">3.00</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-160 status-publish instock product_cat-accessories product_cat-women has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/anchor-bracelet" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-accessory2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/anchor-bracelet" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Anchor Bracelet</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-13496 status-publish instock product_cat-accessories product_cat-keyboard product_tag-keyboard has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/magic-keyboard" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/magic-keyboard" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Magic Keyboard</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>129</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single product type-product post-7678 status-publish last instock product_cat-accessories product_cat-tablets product_tag-galaxy product_tag-samsung product_tag-samsung-galaxy-tab-4 has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
 	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/zepp-baseball-softball" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/zepp-baseball-softball" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Zepp Baseball-Softball</h2></a>			<span class="ast-woo-product-category">
 				Accessories			</span> 
 			
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>260</bdi></span></span>
 <div class="star-rating" role="img" aria-label="Note 4.00 sur 5"><span style="width:80%">Note <strong class="rating">4.00</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-12302 status-publish instock product_cat-accessories has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/beoplay-a1-portable-bluetooth" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/beoplay-a1-portable-bluetooth" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Beoplay A1 Portable Bluetooth</h2></a>			<span class="ast-woo-product-category">
-				Accessories			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>88</bdi></span></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-13498 status-publish instock product_cat-accessories has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/work-lamp-forsa" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/work-lamp-forsa" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Work Lamp FORSÅ</h2></a>			<span class="ast-woo-product-category">
-				Accessories			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>19</bdi></span></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single product type-product post-12352 status-publish last instock product_cat-head-phones product_tag-jbl product_tag-sport has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/jbl-sport-300" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/jbl-sport-300" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">JBL® Sport™ 300</h2></a>			<span class="ast-woo-product-category">
-				Headphones			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>80</bdi></span></span>
-<div class="star-rating" role="img" aria-label="Note 5.00 sur 5"><span style="width:100%">Note <strong class="rating">5.00</strong> sur 5</span></div></div></li>
 
 			
 		</ul>

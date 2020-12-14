@@ -245,10 +245,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/evutec-karbon-si-snap" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f703b541">quantité de Evutec Karbon SI Snap</label>
+				<label class="screen-reader-text" for="quantity_5fd783bc92c9f">quantité de Evutec Karbon SI Snap</label>
 		<input
 			type="number"
-			id="quantity_5fd74f703b541"
+			id="quantity_5fd783bc92c9f"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -394,7 +394,15 @@ to use</h3>
 		<ul class="products columns-4">
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-12393 status-publish first instock product_cat-virtual-reality has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-8040 status-publish first instock product_cat-accessories product_cat-virtual-reality product_tag-galaxy product_tag-samsung product_tag-samsung-galaxy-tab-s2 has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Apollo Cloud Storage</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>210</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-12393 status-publish instock product_cat-virtual-reality has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
 	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/shopizone-vr-glasses" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/shopizone-vr-glasses" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Shopizone VR Glasses</h2></a>			<span class="ast-woo-product-category">
 				Virtual Reality			</span> 
 			
@@ -409,14 +417,6 @@ to use</h3>
 				Virtual Reality			</span> 
 			
 	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>180</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>160</bdi></span></ins></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-8040 status-publish instock product_cat-accessories product_cat-virtual-reality product_tag-galaxy product_tag-samsung product_tag-samsung-galaxy-tab-s2 has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Apollo Cloud Storage</h2></a>			<span class="ast-woo-product-category">
-				Accessories			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>210</bdi></span></span>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			

@@ -229,10 +229,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/dnk-cross-tshirt" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f6bef6b4">quantité de Blue Tshirt</label>
+				<label class="screen-reader-text" for="quantity_5fd783b7ea99d">quantité de Blue Tshirt</label>
 		<input
 			type="number"
-			id="quantity_5fd74f6bef6b4"
+			id="quantity_5fd783b7ea99d"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -346,32 +346,32 @@ flexibility(document.documentElement);
 		<ul class="products columns-4">
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-360 status-publish first instock product_cat-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/dnk-blue-shoes" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/shoe5.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/dnk-blue-shoes" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">DNK Blue Shoes</h2></a>			<span class="ast-woo-product-category">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-307 status-publish first instock product_cat-men has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/black-hoodie" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/black-hoodie" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Black Hoodie</h2></a>			<span class="ast-woo-product-category">
 				Men			</span> 
 			
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-349 status-publish instock product_cat-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-324 status-publish instock product_cat-men has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-gray-jeans" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="58" src="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-300x58.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-300x58.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-600x116.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-768x149.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-1536x297.jpg 1536w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1-1395x270.jpg 1395w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/shop-banner-1.jpg 1680w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-gray-jeans" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Dark Gray Jeans</h2></a>			<span class="ast-woo-product-category">
+				Men			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-112 status-publish instock product_cat-men has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/blue-hoodie" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-hoodie2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/blue-hoodie" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Blue Hoodie</h2></a>			<span class="ast-woo-product-category">
+				Men			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-349 status-publish last instock product_cat-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
 	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-brown-jeans" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="189" src="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-2-300x189.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-2-300x189.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-2.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-brown-jeans" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Dark Brown Jeans</h2></a>			<span class="ast-woo-product-category">
-				Men			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-345 status-publish instock product_cat-men has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-blue-denim-jeans" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="189" src="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-3-300x189.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-3-300x189.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2018/12/about-us-banner2-3.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/dark-blue-denim-jeans" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Dark Blue Denim Jeans</h2></a>			<span class="ast-woo-product-category">
-				Men			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-115 status-publish last instock product_cat-men has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/green-hoodie" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="111" src="https://dev-test.oumouexpress.com/wp-content/uploads/2019/01/home1-banner1-1-300x111.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2019/01/home1-banner1-1-300x111.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2019/01/home1-banner1-1.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/green-hoodie" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Green Hoodie</h2></a>			<span class="ast-woo-product-category">
 				Men			</span> 
 			
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>

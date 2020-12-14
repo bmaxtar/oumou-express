@@ -241,10 +241,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/dji-phantom-4-pro-camera-drone" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f6ae387a">quantité de DJI Phantom 4 Pro Camera Drone</label>
+				<label class="screen-reader-text" for="quantity_5fd783b6cfd03">quantité de DJI Phantom 4 Pro Camera Drone</label>
 		<input
 			type="number"
-			id="quantity_5fd74f6ae387a"
+			id="quantity_5fd783b6cfd03"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -375,27 +375,27 @@ to use</h3>
 		<ul class="products columns-4">
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-13498 status-publish first instock product_cat-accessories has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/work-lamp-forsa" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/work-lamp-forsa" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Work Lamp FORSÅ</h2></a>			<span class="ast-woo-product-category">
-				Accessories			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>19</bdi></span></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single product type-product post-7675 status-publish instock product_cat-accessories product_tag-apple product_tag-ipad product_tag-ipad-mini has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/desktop-hard-drive" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/desktop-hard-drive" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Desktop Hard Drive</h2></a>			<span class="ast-woo-product-category">
-				Accessories			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>39</bdi></span></span>
-<div class="star-rating" role="img" aria-label="Note 3.00 sur 5"><span style="width:60%">Note <strong class="rating">3.00</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-109 status-publish instock product_cat-accessories product_cat-women has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/light-brown-purse" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/light-brown-purse" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Light Brown Purse</h2></a>			<span class="ast-woo-product-category">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-95 status-publish first instock product_cat-accessories product_cat-women has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/black-over-the-shoulder-handbag" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-300x300.jpg 300w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-600x600.jpg 600w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-150x150.jpg 150w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-768x768.jpg 768w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2-100x100.jpg 100w, https://dev-test.oumouexpress.com/wp-content/uploads/2017/12/product-bag2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/black-over-the-shoulder-handbag" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Black Over-the-shoulder Handbag</h2></a>			<span class="ast-woo-product-category">
 				Accessories			</span> 
 			
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>150</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-8040 status-publish instock product_cat-accessories product_cat-virtual-reality product_tag-galaxy product_tag-samsung product_tag-samsung-galaxy-tab-s2 has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/apollo-cloud-storage" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Apollo Cloud Storage</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>210</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-11386 status-publish instock product_cat-accessories product_cat-head-phones product_cat-software product_tag-samsung-galaxy-s5-64gb has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/tangram-factory-smart-rope" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/tangram-factory-smart-rope" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Tangram Factory Smart Rope</h2></a>			<span class="ast-woo-product-category">
+				Accessories			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>180</bdi></span></span>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			

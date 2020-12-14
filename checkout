@@ -476,7 +476,7 @@ var wc_address_i18n_params = {"locale":"{\"AE\":{\"postcode\":{\"required\":fals
 </script>
 <script src='https://dev-test.oumouexpress.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=4.8.0' id='wc-address-i18n-js'></script>
 <script id='wc-cart-js-extra'>
-var wc_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"762db83cbb","apply_coupon_nonce":"a60a6acf74","remove_coupon_nonce":"6834d33dba"};
+var wc_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"fdb72b7578","apply_coupon_nonce":"a8dd7cbd00","remove_coupon_nonce":"7909fbb58e"};
 </script>
 <script src='https://dev-test.oumouexpress.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=4.8.0' id='wc-cart-js'></script>
 <script src='https://dev-test.oumouexpress.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6' id='selectWoo-js'></script>

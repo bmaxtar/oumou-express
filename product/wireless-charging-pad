@@ -246,10 +246,10 @@ flexibility(document.documentElement);
 	<form class="cart" action="https://dev-test.oumouexpress.com/product/wireless-charging-pad" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_5fd74f85a7f6a">quantité de Wireless Charging Pad</label>
+				<label class="screen-reader-text" for="quantity_5fd783d260648">quantité de Wireless Charging Pad</label>
 		<input
 			type="number"
-			id="quantity_5fd74f85a7f6a"
+			id="quantity_5fd783d260648"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -418,7 +418,15 @@ to use</h3>
 		<ul class="products columns-4">
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-13495 status-publish first instock product_cat-computers product_tag-apple product_tag-imac has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-11482 status-publish first instock product_cat-cameras product_tag-beats has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/flying-camera" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/flying-camera" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Flying Camera</h2></a>			<span class="ast-woo-product-category">
+				Cameras			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>25</bdi></span></span>
+<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
+
+			
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-13495 status-publish instock product_cat-computers product_tag-apple product_tag-imac has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
 	<div class="astra-shop-thumbnail-wrap">
 	<span class="onsale">Promo !</span>
 	<a href="https://dev-test.oumouexpress.com/product/imac-2017-retina-4k" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/imac-2017-retina-4k" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">iMac 2017 Retina 4K</h2></a>			<span class="ast-woo-product-category">
@@ -428,29 +436,21 @@ to use</h3>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-11482 status-publish instock product_cat-cameras product_tag-beats has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/flying-camera" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/flying-camera" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Flying Camera</h2></a>			<span class="ast-woo-product-category">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-11491 status-publish instock product_cat-cameras product_tag-beats has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/gopro-camera" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/gopro-camera" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Gopro Camera</h2></a>			<span class="ast-woo-product-category">
 				Cameras			</span> 
 			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>25</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>280</bdi></span></span>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-12310 status-publish instock product_cat-accessories product_cat-networking has-post-thumbnail sale featured taxable shipping-taxable purchasable product-type-simple">
+					<li class="ast-article-single ast-woo-product-no-review product type-product post-12310 status-publish last instock product_cat-accessories product_cat-networking has-post-thumbnail sale featured taxable shipping-taxable purchasable product-type-simple">
 	<div class="astra-shop-thumbnail-wrap">
 	<span class="onsale">Promo !</span>
 	<a href="https://dev-test.oumouexpress.com/product/jbl-soundfly-bt" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/jbl-soundfly-bt" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">JBL SoundFly BT</h2></a>			<span class="ast-woo-product-category">
 				Accessories			</span> 
 			
 	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>68</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>66</bdi></span></ins></span>
-<div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
-
-			
-					<li class="ast-article-single ast-woo-product-no-review product type-product post-11491 status-publish last instock product_cat-cameras product_tag-beats has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
-	<div class="astra-shop-thumbnail-wrap"><a href="https://dev-test.oumouexpress.com/product/gopro-camera" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" loading="lazy" srcset="https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://dev-test.oumouexpress.com/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://dev-test.oumouexpress.com/product/gopro-camera" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Gopro Camera</h2></a>			<span class="ast-woo-product-category">
-				Cameras			</span> 
-			
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">CFA</span>280</bdi></span></span>
 <div class="star-rating"><span style="width:0%">Note <strong class="rating">0</strong> sur 5</span></div></div></li>
 
 			
